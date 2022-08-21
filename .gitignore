@@ -1,0 +1,8 @@
+.gradle/
+build/
+.idea/
+.output/
+*.jar
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+.server/
