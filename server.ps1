@@ -1,4 +1,4 @@
-$Version = "1.19.1"
+$Version = "1.19.2"
 $Plugins = (
     "https://github.com/monun/auto-reloader/releases/download/0.0.2/AutoReloader.jar"
 )

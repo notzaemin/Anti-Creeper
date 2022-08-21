@@ -12,7 +12,6 @@ repositories {
 dependencies {
     compileOnly(kotlin("stdlib"))
     compileOnly("io.papermc.paper:paper-api:${project.properties["paperVersion"]}-R0.1-SNAPSHOT")
-    compileOnly("io.github.monun:kommand-core:${project.properties["kommandVersion"]}")
 }
 
 tasks {
